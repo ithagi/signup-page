@@ -1,0 +1,2 @@
+Neubrutalism is a mix of standard Brutalism in web design and more modern standards of typography, illustration, and animation
+I have created a signup form in neobrutalism style using HTML and CSS.
